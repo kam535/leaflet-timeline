@@ -1,0 +1,585 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02934231,
+          38.90895489
+        ]
+      },
+      "properties": {
+        "objectid": "4475-27",
+        "title": "Hard Hickory, an Amiable Man",
+        "filename": "https://ids.si.edu/ids/deliveryService?id=SAAM-1985.66.266_1&max=2600",
+        "date": "1831",
+        "creator": "George Caitlin",
+        "culture": "American (Colonizer)",
+        "source": "Smithsonian American Art Museum",
+        "description": "George Catlin probably painted Hard Hickory, a member of the Seneca tribe, in Washington, D.C., in February 1831. Catlin thought him “a very ferocious-looking, but a mild and amiable man.” (Catlin, 1848 Catalogue, Catlin’s Indian Gallery, SAAM online exhibition)",
+        "subject": "Portrait male — Hard Hickory\nIndian — Seneca",
+        "location": "Washington, D.C., United States of America",
+        "identifier": "1985.66.266",
+        "type": "painting",
+        "format": "image/jpeg",
+        "rights": "CC 0",
+        "materials": "Oil on canvas",
+        "provenance": "Gift of Mrs. Joseph Harrison, Jr."
+      },
+      "id": "Y2MzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02934231,
+          38.90895489
+        ]
+      },
+      "properties": {
+        "objectid": "4475-26",
+        "title": "Round Island, a Warrior",
+        "filename": "https://ids.si.edu/ids/deliveryService?id=SAAM-1985.66.265_1&max=2600",
+        "date": "1831",
+        "creator": "George Caitlin",
+        "culture": "American (Colonizer)",
+        "source": "Smithsonian American Art Museum",
+        "description": "George Catlin painted the Seneca warrior Round Island in February 1831, when a delegation of the tribe visited Washington, D.C. In his 1848 Catalogue, Catlin described him as a “very handsome fellow.”",
+        "subject": "Indian — Seneca\nPortrait male — Round Island",
+        "location": "Washington, D.C., United States of America",
+        "identifier": "1985.66.265",
+        "type": "painting",
+        "format": "image/jpeg",
+        "rights": "CC 0",
+        "materials": "Oil on canvas",
+        "provenance": "Gift of Mrs. Joseph Harrison, Jr."
+      },
+      "id": "A2MTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02934231,
+          38.90895489
+        ]
+      },
+      "properties": {
+        "objectid": "4475-25",
+        "title": "Deep Lake, an Old Chief",
+        "filename": "https://ids.si.edu/ids/deliveryService?id=SAAM-1985.66.264_1&max=2600",
+        "date": "1831",
+        "creator": "George Caitlin",
+        "culture": "American (Colonizer)",
+        "source": "Smithsonian American Art Museum",
+        "description": "In 1830, Catlin accompanied William Clark, of the celebrated Lewis and Clark expedition, up the Mississippi River from St. Louis to Fort Crawford. Before he began more extensive travels in 1832, however, he spent time in eastern cities, where he often saw visiting delegations of Native Americans and was able to paint their portraits. In Washington, D.C., in January and February 1831, Catlin painted Menominee and Seneca delegations, including this portrait of the Ohio Seneca chief Deep Lake. The chief and other members of his tribe were in the capital to negotiate a treaty for the sale of their lands south of Lake Erie. By 1838, the Senecas’ removal from their remaining lands had been set out in the Treaty of Buffalo Creek, and the tribe was to remove to what is known today as Kansas. (Truettner, The Natural Man Observed, 1979; Hoxie, ed., Encyclopedia of North American Indians, 1996)",
+        "subject": "Indian — Seneca\nPortrait male — Deep Lake",
+        "location": "Washington, D.C., United States of America",
+        "identifier": "1985.66.264",
+        "type": "painting",
+        "format": "image/jpeg",
+        "rights": "CC 0",
+        "materials": "Oil on canvas",
+        "provenance": "Gift of Mrs. Joseph Harrison, Jr."
+      },
+      "id": "g1NTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02934231,
+          38.90895489
+        ]
+      },
+      "properties": {
+        "objectid": "4475-24",
+        "title": "Andrew John",
+        "filename": "https://ids.si.edu/ids/deliveryService?id=SAAM-1985.66.403430_1&max=2600",
+        "date": "ca. 1880",
+        "creator": "",
+        "culture": "",
+        "source": "Smithsonian American Art Museum",
+        "description": "",
+        "subject": "Indian — Seneca\nPortrait male — John, Andrew",
+        "location": "Washington, D.C., United States of America",
+        "identifier": "1985.66.403 430",
+        "type": "painting",
+        "format": "image/jpeg",
+        "rights": "CC 0",
+        "materials": "Oil on canvas",
+        "provenance": "Transfer from the National Museum of Natural History, Department of Anthropology, Smithsonian Institution"
+      },
+      "id": "A4MDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02934231,
+          38.90895489
+        ]
+      },
+      "properties": {
+        "objectid": "4475-23",
+        "title": "Good Hunter, a Warrior",
+        "filename": "https://ids.si.edu/ids/deliveryService?id=SAAM-1985.66.267_1&max=2600",
+        "date": "1831",
+        "creator": "George Caitlin",
+        "culture": "American (Colonizer)",
+        "source": "Smithsonian American Art Museum",
+        "description": "“The Senecas were one of the most numerous and effective tribes, constituting the compact called the ‘Six Nations;’ which was a confederacy formed by six tribes, who joined in a league as an effective mode of gaining strength, and preserving themselves by combined efforts which would be sufficiently strong to withstand the assaults of neighbouring tribes, or to resist the incursions of white people in their country.” George Catlin probably painted Good Hunter in Washington, D.C., in February 1831. (Catlin, Letters and Notes, vol. 2, no. 47, 1841; reprint 1973)",
+        "subject": "Indian — Seneca\nPortrait male — Good Hunter",
+        "location": "Washington, D.C., United States of America",
+        "identifier": "1985.66.267",
+        "type": "painting",
+        "format": "image/jpeg",
+        "rights": "CC 0",
+        "materials": "Oil on canvas",
+        "provenance": "Gift of Mrs. Joseph Harrison, Jr."
+      },
+      "id": "cxMDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02934231,
+          38.90895489
+        ]
+      },
+      "properties": {
+        "objectid": "4475-22",
+        "title": "String, a Renowned Warrior",
+        "filename": "https://ids.si.edu/ids/deliveryService?id=SAAM-1985.66.268_1&max=2600",
+        "date": "1831",
+        "creator": "George Caitlin",
+        "culture": "American (Colonizer)",
+        "source": "Smithsonian American Art Museum",
+        "description": "The Seneca warrior String came to Washington in early 1831, accompanying a delegation of his tribesmen who were there to negotiate a treaty for the sale of their lands south of Lake Erie to the United States. George Catlin probably painted String and other members of the tribe in the capital that year. The artist described the Senecas as “one of the most numerous and effective tribes, constituting the compact called the ‘Six Nations’ . . . a confederacy formed by six tribes, who joined in a league as an effective mode of gaining strength, and preserving themselves by combined efforts which would be sufficiently strong to withstand the assaults of neighbouring tribes, or to resist the incursions of white people in their country.” (Catlin, Letters and Notes, vol. 2, no. 47, 1841, reprint 1973; Truettner, The Natural Man Observed, 1979)",
+        "subject": "Indian — Seneca\nPortrait male — String",
+        "location": "Washington, D.C., United States of America",
+        "identifier": "1985.66.268",
+        "type": "painting",
+        "format": "image/jpeg",
+        "rights": "CC 0",
+        "materials": "Oil on canvas",
+        "provenance": "Gift of Mrs. Joseph Harrison, Jr."
+      },
+      "id": "I4OTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87646149,
+          42.886148
+        ]
+      },
+      "properties": {
+        "objectid": "4475-21",
+        "title": "The Trial of Red Jacket",
+        "filename": "https://ids.si.edu/ids/deliveryService?id=SAAM-1990.34_1&max=2600",
+        "date": "1869",
+        "creator": "John Mix Stanley",
+        "culture": "American (Colonizer)",
+        "source": "Smithsonian American Art Museum",
+        "description": "Red Jacket (1758-1830) was a famous leader of the Seneca tribe of the Iroquois Nation. In this ambitious painting, John Mix Stanley showed the chief defending himself against a charge of witchcraft. Under his white robe is the red jacket given to him by a British officer for his help as a messenger during the American Revolution. Stanley trained as a portrait painter, and all of the figures in this work are portraits of identifiable individuals. The Trial of Red Jacket was almost destroyed in the Smithsonian Institution's fire of 1865. (Antiques, November 1990; Javiga da Costa Nunes, \"Red Jacket: The Man and his Portraits,\" The American Art Journal, Summer 1980)",
+        "subject": "History — United States — Trial of Red Jacket\nOccupation — other — chief\nPortrait male — RED JACKET\nIndian — Seneca\nFigure group\nOccupation — education — orator",
+        "location": "Buffalo, New York, United States of America",
+        "identifier": "1990.34",
+        "type": "painting",
+        "format": "image/jpeg",
+        "rights": "CC 0",
+        "materials": "Oil on canvas",
+        "provenance": "Gift of George M. Stanley (grandson of the artist) and family and museum purchase "
+      },
+      "id": "E0ODY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1757674247,
+          51.50844388
+        ]
+      },
+      "properties": {
+        "objectid": "4475-20",
+        "title": "KI-ON-TWOG-KY., from History of the Indian Tribes of North America",
+        "filename": "https://ids.si.edu/ids/deliveryService?id=SAAM-1985.66.153294_1&max=2600",
+        "date": "ca. 1836",
+        "creator": "Charles Bird King, I. T. Bowen's Lithographic Establishment, McKenney and Hall,\nF. W. Greenough",
+        "culture": "American (Colonizer)",
+        "source": "Smithsonian American Art Museum",
+        "description": "",
+        "subject": "Portrait male — CORN PLANT\nPortrait male — KI-ON-TWOG-KY\nIndian — Seneca\nRecreation — leisure — smoking\nDress — Indian dress",
+        "location": "London, England",
+        "identifier": "1985.66.153 294",
+        "type": "lithograph",
+        "format": "image/jpeg",
+        "rights": "CC 0",
+        "materials": "Hand-colored lithograph on paper",
+        "provenance": "Museum purchase"
+      },
+      "id": "g4NzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1757674247,
+          51.50844388
+        ]
+      },
+      "properties": {
+        "objectid": "4475-15",
+        "title": "RED JACKET. SENECA WAR CHIEF.",
+        "filename": "https://ids.si.edu/ids/deliveryService?id=SAAM-1985.66.153293_2&max=2600",
+        "date": "ca. 1837-1844",
+        "creator": "Charles Bird King, Charles Joseph Hullmandel, Courbould, McKenney and Hall",
+        "culture": "American (Colonizer)",
+        "source": "Smithsonian American Art Museum",
+        "description": "",
+        "subject": "Portrait male — RED JACKET\nPortrait male — SA-GO-YOU-WAT-HA\nPortrait male — Keeper Awake\nOccupation — other — chief\nIndian — Seneca",
+        "location": "London, England",
+        "identifier": "1985.66.153 293",
+        "type": "lithograph",
+        "format": "image/jpeg",
+        "rights": "CC 0",
+        "materials": "Hand-colored lithograph on paper",
+        "provenance": "Museum purchase"
+      },
+      "id": "UyMTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.271111,
+          37.804363
+        ]
+      },
+      "properties": {
+        "objectid": "4475-14",
+        "title": "Chippewa Picture Writing – Seneca Mask – Eastern Woodlands",
+        "filename": "https://ids.si.edu/ids/deliveryService?id=SAAM-1973.23.8_1&max=2600",
+        "date": "1939",
+        "creator": "Louis Siegriest",
+        "culture": "American (Colonizer)",
+        "source": "Smithsonian American Art Museum",
+        "description": "",
+        "subject": "Indian — Seneca\nDress — costume — mask\nIndian — Chippewa\nNew Deal — Works Progress Administration, Federal Art Project\nIndian — Eastern Woodlands\nObject — written matter — poster",
+        "location": "Oakland, California, United States of America",
+        "identifier": "1973.23.8",
+        "type": "screenprint",
+        "format": "image/jpeg",
+        "rights": "",
+        "materials": "Screenprint",
+        "provenance": "Gift of Ralph H. Lewis"
+      },
+      "id": "A1Mzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02934231,
+          38.90895489
+        ]
+      },
+      "properties": {
+        "objectid": "4475-13",
+        "title": "Seneca Steele, a Great Libertine",
+        "filename": "https://ids.si.edu/ids/deliveryService?id=SAAM-1985.66.269_1&max=2600",
+        "date": "",
+        "creator": "George Caitlin",
+        "culture": "American (Colonizer)",
+        "source": "Smithsonian American Art Museum",
+        "description": "George Catlin described Seneca Steele as having a “hatchet in his hand.” The artist probably took this portrait in Washington, in February 1831. (Catlin, 1848 Catalogue, Catlin’s Indian Gallery, SAAM online exhibition)",
+        "subject": "Portrait male — Steele, Seneca\nIndian — Seneca",
+        "location": "Washington, D.C., United States of America",
+        "identifier": "1985.66.269",
+        "type": "painting",
+        "format": "image/jpeg",
+        "rights": "CC 0",
+        "materials": "Oil on canvas",
+        "provenance": "Gift of Mrs. Joseph Harrison, Jr."
+      },
+      "id": "M3Njc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.549133,
+          52.939915
+        ]
+      },
+      "properties": {
+        "objectid": "4475-11",
+        "title": "Paddle",
+        "filename": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/319185/679214/main-image",
+        "date": "1850–75",
+        "creator": "",
+        "culture": "Haudenosaunee (Iroquois)",
+        "source": "Metropolitan Museum of Art, American Wing",
+        "description": "",
+        "subject": "boat paddles",
+        "location": "Quebec or Ontario, Canada",
+        "identifier": "2011.154.148",
+        "type": "equipment",
+        "format": "image/jpeg",
+        "rights": "Public Domain",
+        "materials": "Wood",
+        "provenance": "A New York collector; Ralph T. Coe, Santa Fe, NM, until (d.) 2010; Ralph T. Coe Foundation for the Arts, 2010–2011"
+      },
+      "id": "g3MDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.486794,
+          42.843751
+        ]
+      },
+      "properties": {
+        "objectid": "4475-10",
+        "title": "Belt pouch",
+        "filename": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/751506/1772174/main-image",
+        "date": "ca. 1800",
+        "creator": "",
+        "culture": "Haudenosaunee/ Iroquois (?), Native American",
+        "source": "Metropolitan Museum of Art, American Wing",
+        "description": "Bags of this type were made by women for men to fold over their belts; a slit in the center serves as the opening. The shiny dyed porcupine quills provide a dramatic contrast to the softly textured dark brown leather, and a fringe of metal cones and red-dyed deer hair adds another dimension of texture and color. The bold palette of vivid red, black, and white is characteristic of northeastern Woodlands quillwork of the period.",
+        "subject": "bags (generic containers)",
+        "location": "Ontario, Canada or New York, United States of America",
+        "identifier": "2019.456.28",
+        "type": "accessory (clothing)",
+        "format": "image/jpeg",
+        "rights": "Public Domain",
+        "materials": "Tanned leather, porcupine quills, dye, metal cones, and deer hair",
+        "provenance": "Private collection, England; Donald Ellis Gallery, Dundas, ON 2004; Charles and Valerie Diker"
+      },
+      "id": "A4MDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.549133,
+          52.939915
+        ]
+      },
+      "properties": {
+        "objectid": "4475-9",
+        "title": "Glengarry style cap",
+        "filename": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/319023/676985/main-image",
+        "date": "ca. 1880",
+        "creator": "",
+        "culture": "Haudenosaunee (Iroquois)",
+        "source": "Metropolitan Museum of Art, American Wing",
+        "description": "",
+        "subject": "caps (headgear)",
+        "location": "Quebec or Ontario, Canada",
+        "identifier": "2011.154.191",
+        "type": "accessory (clothing)",
+        "format": "image/jpeg",
+        "rights": "Public Domain",
+        "materials": "Wool, cotton, silk, glass",
+        "provenance": "[An antiques shop, Bath, UK, until 1977]; Ralph T. Coe, Santa Fe, NM, 1977–(d.) 2010; Ralph T. Coe Foundation for the Arts, 2010–2011"
+      },
+      "id": "M1MDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.549133,
+          52.939915
+        ]
+      },
+      "properties": {
+        "objectid": "4475-8",
+        "title": "Bag",
+        "filename": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/319121/679222/main-image",
+        "date": "1800–1820",
+        "creator": "",
+        "culture": "Micmac or Haudenosaunee (Iroquois)",
+        "source": "Metropolitan Museum of Art, American Wing",
+        "description": "",
+        "subject": "bags (generic containers)",
+        "location": "Quebec or Canadian Maritimes, Canada",
+        "identifier": "2011.154.86",
+        "type": "accessory (clothing)",
+        "format": "image/jpeg",
+        "rights": "Public Domain",
+        "materials": "Wool, cotton, silk, glass, brass",
+        "provenance": "Ralph T. Coe, Santa Fe, NM, until (d.) 2010; Ralph T. Coe Foundation for the Arts, 2010–2011"
+      },
+      "id": "Q0Nzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.194527,
+          41.203323
+        ]
+      },
+      "properties": {
+        "objectid": "4475-6",
+        "title": "Comb",
+        "filename": "",
+        "date": " ca. 1680",
+        "creator": "",
+        "culture": "Seneca or Susquehannock, Native American",
+        "source": "Metropolitan Museum of Art, American Wing",
+        "description": "On this expertly carved comb, two animated figures wearing frock coats—likely a Native American and a Euro-American—face one another. Each has one arm raised in greeting, perhaps marking a diplomatic exchange or treaty. Possibly created by a Seneca artist — the westernmost member of the Haudenosaunee Confederacy — metal and tipped tools were used to form the individual teeth, delicate dot and line borders, and cutout designs. Today, Haudenosaunee artists still produce antler, bone, and other combs featuring animals and human figures.",
+        "subject": "animal combs",
+        "location": "New York, United States of America or Pennsylvania, United States of America",
+        "identifier": "2019.456.18",
+        "type": "accessory (clothing)",
+        "format": "image/jpeg",
+        "rights": "Copyright Metropolitan Museum of Art. This image cannot be enlarged, viewed at full screen, or downloaded.",
+        "materials": "Moose antler",
+        "provenance": "Jonathan Holstein, 2004; Charles and Valerie Diker Collection"
+      },
+      "id": "k3MTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.486794,
+          42.843751
+        ]
+      },
+      "properties": {
+        "objectid": "4475-5",
+        "title": "Pouch",
+        "filename": "",
+        "date": "early 19th century",
+        "creator": "",
+        "culture": "Onondowahgah/Seneca, Native American",
+        "source": "Metropolitan Museum of Art, American Wing",
+        "description": "This rare pouch encapsulates nineteenth-century Native ingenuity and creative production. The figural design—made using nonlocal materials, including faceted glass beads in a curvilinear applique stitch—represents twin brothers from the origin stories of the Haudenosaunee, the sovereign Native American confederacy of Mohawk, Oneida, Onondaga, Cayuga, Seneca, and Tuscarora Nations. The materials date to the time of the American Revolution, when the confederacy divided its support between the American and British causes. The confederacy’s Grand Council governance system is still active today.",
+        "subject": "pouches",
+        "location": "New York, United States of America",
+        "identifier": "2016.738.3",
+        "type": "accessory (clothing)",
+        "format": "image/jpeg",
+        "rights": "Copyright Metropolitan Museum of Art. This image cannot be enlarged, viewed at full screen, or downloaded.",
+        "materials": "English wool, cotton, silk, glass beads",
+        "provenance": "Johnathan Holstein, Cazenovia, NY; Collection of Charles and Valerie Diker, New York, NY 2016"
+      },
+      "id": "I5NzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.323212,
+          51.253777
+        ]
+      },
+      "properties": {
+        "objectid": "4475-3",
+        "title": "Mother-and-Child Doll",
+        "filename": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/319221/677986/main-image",
+        "date": "1870–80",
+        "creator": "",
+        "culture": "Seneca",
+        "source": "Metropolitan Museum of Art, American Wing",
+        "description": "",
+        "subject": "cornhusk dolls",
+        "location": "Ontario, Canada or New York, United States of America",
+        "identifier": "2011.154.22",
+        "type": "toy",
+        "format": "image/jpeg",
+        "rights": "Public Domain",
+        "materials": "Corn husk, cotton, wool, Native-tanned skin, glass, silk",
+        "provenance": "Ralph T. Coe, Santa Fe, NM, until (d.) 2010; Ralph T. Coe Foundation for the Arts, 2010–2011"
+      },
+      "id": "M3ODU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.486794,
+          42.843751
+        ]
+      },
+      "properties": {
+        "objectid": "4475-2",
+        "title": "Pair of Moccasins",
+        "filename": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/319219/678185/main-image",
+        "date": "ca. 1808",
+        "creator": "",
+        "culture": "Seneca",
+        "source": "Metropolitan Museum of Art, American Wing",
+        "description": "",
+        "subject": "beaded shoes",
+        "location": "New York, United States of America",
+        "identifier": "2011.154.188a b",
+        "type": "clothing",
+        "format": "image/jpeg",
+        "rights": "Public Domain",
+        "materials": "Native-tanned skin, porcupine quill",
+        "provenance": "Susan Dutton Powell, Tunesassa, NY, about 1808; Roland Jones Dutton, PA (?); a collector; [John Molloy, Santa Fe, NM]; Ralph T. Coe, Santa Fe, NM, until (d.) 2010; Ralph T. Coe Foundation for the Arts, 2010–2011"
+      },
+      "id": "g0NzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.486794,
+          42.843751
+        ]
+      },
+      "properties": {
+        "objectid": "4475-1",
+        "title": "Pair of Moccasins",
+        "filename": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/319126/679226/main-image",
+        "date": "ca. 1830",
+        "creator": "",
+        "culture": "Seneca",
+        "source": "Metropolitan Museum of Art, American Wing",
+        "description": "",
+        "subject": "beaded shoes",
+        "location": "New York, United States of America",
+        "identifier": "2011.154.93a b",
+        "type": "clothing",
+        "format": "image/jpeg",
+        "rights": "Public Domain",
+        "materials": "Native-tanned skin, quill, silk, glass",
+        "provenance": "Collected 1830s by Baron Johann Friedrich Kraus, Germany; his family, by descent, until 2000; (Seahawk Auctions, Burnaby, British Columbia, Canada, June 2000, no. 1223); Ralph T. Coe, Santa Fe, NM, 2000–(d.) 2010; Ralph T. Coe Foundation for the Arts, 2010–2011"
+      },
+      "id": "U5NjE"
+    }
+  ]
+}
